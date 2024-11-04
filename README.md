@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on coding and web design/devlopment.
 <!--
 **hayden-t1/hayden-t1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
